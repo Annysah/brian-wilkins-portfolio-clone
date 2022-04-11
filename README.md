@@ -1,5 +1,5 @@
 # brian-wilkins-portfolio-clone
- This is a two section clone of the Brian Wilkin portfolio to practice Django
+A two section clone of Brian Wilkin portfolio website to practice Django
  
  ## Link
  The site is published at https://annysah.github.io/brian-wilkins-portfolio-clone/
