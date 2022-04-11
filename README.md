@@ -1,2 +1,2 @@
 # brian-wilkins-portfolio-clone
- This is a clone to the Brian Wilkin portfolio to practice Django
+ This is a clone of the Brian Wilkin portfolio to practice Django
