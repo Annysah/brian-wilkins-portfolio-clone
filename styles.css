@@ -69,39 +69,62 @@ h2 {
 
 #second_section{
     padding: 100px 70px;
-    background-color:rgba(236,24,61,1);
+    background-color: #ec183d;
+}
+
+input {
+    width: 21.5%;
 }
 
 .same_field, textarea{
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: rgba(0,0,0,0.27);
-    padding: 8px;
+    padding: 12px;
     border: 0;
     outline:none;
     color: #fff;
 }
 
 .num2{
-    margin-left: 25px;
+    margin-left: 30px;
 }
 
 .submit{
-    width: 400px;
-    padding: 13px;
-    border-radius: 20px;
+    width: 46%;
+    padding: 18px 13px;
+    border-radius: 30px;
     border: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 
 ::placeholder{
     color: white;
 }
 
-h3{
-    color: #fff;
-    font-size: 30px;
+.line {
+    position: absolute;
+    bottom: -20%;
+    left: 5%;
+    width: 12px;
+    height: 2px;
+    background-color: #fff;
+    
 }
 
 .in_touch{
-    color:rgba(253,199,199,1);
+    color:rgba(253, 199, 199, 1);
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+}
+
+h3{
+    color: #fce6e6;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-top: 25px;
+    margin-bottom: 18px;
 }
