@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: visible;
+}
+
+.first-section {
+    background-image: url('https://brianwilkins.me/wp-content/uploads/2020/06/brian_duotone.png');
+    background-size: cover; 
+    height: 100vh;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+}
+
+h1 {
+    color: #fff;
+    font-size: 16px;
+    margin-top: 0;
+    margin-left: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.nav {
+    margin-right: 100px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color:#f5f5f5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: block;
+}
+
+
+h2 {
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
